@@ -1,0 +1,12 @@
+DROP TABLE OT.order_items;
+DROP TABLE OT.orders;
+DROP TABLE OT.inventories;
+DROP TABLE OT.products;
+DROP TABLE OT.product_categories;
+DROP TABLE OT.warehouses;
+DROP TABLE OT.employees;
+DROP TABLE OT.contacts;
+DROP TABLE OT.customers;
+DROP TABLE OT.locations;
+DROP TABLE OT.countries;
+DROP TABLE OT.regions;
